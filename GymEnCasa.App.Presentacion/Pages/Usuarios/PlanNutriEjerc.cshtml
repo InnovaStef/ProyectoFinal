@@ -1,0 +1,54 @@
+﻿@page
+@model GymEnCasa.App.Presentacion.Pages.PlanNutriEjercModel
+@{
+    ViewData["Title"] = "Plan de nutrición y ejercicios";
+}
+
+<h2 class="text-info" style="text-align:center;">Plan de nutrición y ejercicios</h2>
+<h6 class="text-warning" style="text-align:center;">Seleccione el plan que desea consultar</h6>
+
+
+<div class="form-group">
+    <div class="row">
+        <div class="col-sm-6">
+            <h4>Plan de ejercicios </h4>
+        </div>
+        <div class="col-sm-6">
+            <h4>plan de nutrición</h4>
+        </div>
+</div>
+
+<div class="form-group">
+    <div class="row">
+        <div class="col-sm-6">
+            <img src="/Ejercicio.jpg" alt="Ejercicio" title="Ejercicio" width="450" height="250" class="img-fluid">
+        </div>
+        <div class="col-sm-6">
+            <img src="/Nutricion.jpg" alt="Nutricion" title="Nutricion" width="500" height="300" class="img-fluid">
+        </div>
+</div>
+
+<div class="form-group">
+    <div class="row">
+        <div class="col-sm-6">
+            <label for="ejercicio">Ejercicio</label>
+            <input type="radio" id="ejercicio" name="ejercNutric" value="Ejercicio" checked>
+        </div>
+        
+        <div class="col-sm-6">
+            <label for="nutricion">Nutricion</label>
+            <input type="radio" id="nutrición" name="ejercNutric" value="Nutricion" >
+        </div>
+</div>
+
+<div class="form-group">
+     <div class="row">
+        <div class="col-sm-2 offset-sm-2">
+            <button  class="btn btn-primary form-control">Ir </button>
+        </div>
+        <div class="col-sm-2">
+            <a asp-page ="/Index" class="btn btn-success form-control"> Volver
+            </a>
+        </div>
+    </div>
+</div>

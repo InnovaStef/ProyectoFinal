@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {}
+    "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+    "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
         "projectName": "GymEnCasa.App.Dominio",
-        "projectPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -61,17 +61,17 @@
         }
       }
     },
-    "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
+    "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
         "projectName": "GymEnCasa.App.Persistencia",
-        "projectPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-                "projectPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+              "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
               }
             }
           }
@@ -137,17 +137,17 @@
         }
       }
     },
-    "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {
+    "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+        "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
         "projectName": "GymEnCasa.App.Presentacion",
-        "projectPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\obj\\",
+        "projectPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+        "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -158,11 +158,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-                "projectPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+              "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
               },
-              "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
-                "projectPath": "C:\\Personal\\MinTic\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj"
+              "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Stefanny\\Downloads\\proyectofinal\\HomeFit\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj"
               }
             }
           }
@@ -175,6 +175,30 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.29, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

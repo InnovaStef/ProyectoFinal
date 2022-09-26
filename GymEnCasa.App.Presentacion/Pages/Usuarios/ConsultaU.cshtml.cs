@@ -4,12 +4,15 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Authorization;
 
 using GymEnCasa.App.Dominio;
 using GymEnCasa.App.Persistencia;
 
 namespace GymEnCasa.App.Presentacion.Pages
 {
+    [Authorize]
+
     public class ConsultaUModel : PageModel
     {
           private readonly IRepositorioUsuario _repoUsuario; //Para conectarse a la base de datos
