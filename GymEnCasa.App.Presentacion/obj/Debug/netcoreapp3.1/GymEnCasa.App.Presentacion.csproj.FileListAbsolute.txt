@@ -398,3 +398,4 @@ C:\Users\Stefanny\Downloads\proyectofinal\HomeFit\ProyectInnovaSoft\GymEnCasa.Ap
 C:\Users\Stefanny\Downloads\proyectofinal\HomeFit\ProyectInnovaSoft\GymEnCasa.App.Presentacion\obj\Debug\netcoreapp3.1\staticwebassets\GymEnCasa.App.Presentacion.StaticWebAssets.xml
 C:\Users\Stefanny\Downloads\proyectofinal\HomeFit\ProyectInnovaSoft\GymEnCasa.App.Presentacion\obj\Debug\netcoreapp3.1\GymEnCasa.App.Presentacion.genruntimeconfig.cache
 C:\Users\Stefanny\Downloads\proyectofinal\HomeFit\ProyectInnovaSoft\GymEnCasa.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicios\RutinasEjercicios.cshtml.g.cs
+C:\Users\Stefanny\Downloads\proyectofinal\HomeFit\ProyectInnovaSoft\GymEnCasa.App.Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Ejercicios\Dia1.cshtml.g.cs
